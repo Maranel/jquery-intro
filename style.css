@@ -1,0 +1,13 @@
+p{
+  color: #015668;
+  font-family: 'Epilogue', sans-serif;
+  background: #0D91A1; 
+  margin: 10;
+  border: 5px solid #7DCE94;
+  width: 150px;
+  height: 150px;
+   padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
